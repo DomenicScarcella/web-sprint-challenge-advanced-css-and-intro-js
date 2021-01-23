@@ -24,7 +24,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. How would you describe acessibility on the web to someone new to programming?
 
-  * It allows people with disabilities to use websites.
+  * It allows people with disabilities to understand content of web pages, even if they have diffculty seeing, hearing or navigating a typical GUI.
 
 
 2. Talk about 3 different things you can do to ensure your website is accessible.
@@ -36,7 +36,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 3. How would you explain the concept of a variable to someone new to programming?
 
-  * A variables is a container that has a unique name, so the data inside that particular container can be accessed by calling the variable name.
+  * A variable is a container that has a unique name, so the data inside that particular container can be accessed by calling the variable name.
 
 
 4. What is the purpose of using functions in code?

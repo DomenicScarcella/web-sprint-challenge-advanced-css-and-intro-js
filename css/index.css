@@ -159,6 +159,10 @@ button:hover{
         height:24vh;
     }
 
+    button{
+        font-size: 1.2rem;
+    }
+
     .artists-container{
         display:flex;
         flex-direction: column;
